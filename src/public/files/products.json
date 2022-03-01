@@ -6,15 +6,9 @@
     "id": 1
   },
   {
-    "title": "Calculadora",
-    "price": 234.56,
-    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
-    "id": 2
-  },
-  {
-    "title": "Globo Terráqueo",
-    "price": 345.67,
-    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "title": "producto cambiado",
+    "price": "99999",
+    "thumbnail": "unathumbnail",
     "id": 3
   },
   {
@@ -52,5 +46,11 @@
     "price": "4444",
     "thumbnail": "https://www.distribuidorapop.com.ar/wp-content/uploads/2017/07/galletitas-pepitos-por-mayor.jpg",
     "id": 9
+  },
+  {
+    "title": "pepitos",
+    "price": "12341234",
+    "thumbnail": "https://www.distribuidorapop.com.ar/wp-content/uploads/2017/07/galletitas-pepitos-por-mayor.jpg",
+    "id": 10
   }
 ]
